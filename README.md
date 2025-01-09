@@ -20,7 +20,7 @@ Este é um sistema de **gestão de inventário** que permite adicionar, listar, 
 
 1. Clone o repositório:
    ```bash
-   git clone 
+   git clone (https://github.com/mariagrijp/projeto-agil-store)
 # 📦 Inventário Ágil Store
 
 Este é um sistema de **gestão de inventário** que permite adicionar, listar, buscar, atualizar e excluir produtos de um inventário, armazenando as informações em um arquivo JSON.
@@ -43,4 +43,4 @@ Este é um sistema de **gestão de inventário** que permite adicionar, listar, 
 
 1. Clone o repositório:
    ```bash
-   git clone 
+   git clone (https://github.com/mariagrijp/projeto-agil-store)
